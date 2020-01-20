@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/TGExplore/Marie-2.0-English",
+  "repository": "hhttps://github.com/MarcoIsBackTGBot/MarcoIsBackTGBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -17,15 +17,15 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1037578813:AAHvZS9E8COrE8dl8gEFu8OgnSlWDUSgpQE"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "683538773"
+      "value": "973682688"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "ViruZs"
+      "value": "xXShityBrainXx"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -41,7 +41,7 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 683538773 570400686 466337795"
+      "value": "973682688"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
@@ -49,15 +49,15 @@
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "254318997 683538773 570400686 466337795"
+      "value": "973682688"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/Your_id_here"
+      "value": "https://www.paypal.me/ShityBrain"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
-      "value": "8443"
+      "value": "5000"
     },
     "DEL_CMDS": {
       "description": "Whether to delete commands from users which don't have rights to use that command",
@@ -73,7 +73,7 @@
     },
     "BAN_STICKER": {
       "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
-      "value": "CAADBAAD6AMAAkJ_EQNu_RjOszbmnxYE"
+      "value": "AAQCAANiAAPkoM4H8I5GEMlKpH3Gj1wPAAQBAAdtAAPnDAACFgQ"
     }
   },
   "addons": [
